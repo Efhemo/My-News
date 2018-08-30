@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navigation_menu_bbc_news"
+            android:title="HOME" />
+
+        <item
+            android:id="@+id/navigation_menu_cnn_news"
+            android:title="CNN" />
+        <item
+            android:id="@+id/navigation_menu_sport"
+            android:title="SPORT" />\
+        <item
+            android:id="@+id/navigation_menu_nigeria_sport_news"
+            android:title="NIGERIA SPORT" />
+        <item
+            android:id="@+id/navigation_menu_business_news"
+            android:title="BUSINESS NEWS" />
+        <item
+            android:id="@+id/navigation_menu_entertainment"
+            android:title="ENTERTAINMENT" />
+
+    </group>
+
+
+
+</menu>
